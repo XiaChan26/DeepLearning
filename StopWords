@@ -1,5 +1,5 @@
 import jieba
-
+# 主要功能，对一个数据集实现去除停用词的算法
 
 # 创建停用词列表
 def stopwordslist():
